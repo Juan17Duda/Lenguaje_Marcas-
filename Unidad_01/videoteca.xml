@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE videoteca SYSTEM "vid.dtd">
+<videoteca>
+    <pelicula>
+        <titulo>Mar Adetro</titulo>
+        <director>Aménabar</director>
+        <año>2004</año>
+    </pelicula>
+    <pelicula>
+        <titulo>Jumanji</titulo>
+        <director>Jaek Kasdan</director>
+        <año>1995</año>
+    </pelicula>
+    <pelicula>
+        <titulo>Matrix</titulo>
+        <director>Nolose</director>
+        <año>1995</año>
+    </pelicula>
+</videoteca>

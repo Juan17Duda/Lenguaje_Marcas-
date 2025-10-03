@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:h="httpshttp://www.mipagina.org/table"
+xmlns:mueble="http://www.mipagina.org/mueble">
+
+    <h:table>
+        <h:tr>
+            <h:td>Manzanas</h:td>
+            <h:td>Platanos</h:td>
+
+
+        </h:tr>
+   </h:table>
+
+   <mueble:table>
+        <mueble:name>Ikea Frogen</mueble:name>
+        <mueble:width unidad="cm">80</mueble:width>
+        <mueble:length unidad="cm">120</mueble:length>
+
+
+   </mueble:table>
+
+
+
+
+
+</root>

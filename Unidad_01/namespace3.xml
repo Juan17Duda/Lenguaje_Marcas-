@@ -1,0 +1,6 @@
+<empleado xmlns:trab="http://hola.org/correo"
+        xmlns:pers="http://hola.org/correo/personal">
+    <nombre>Lucía Rodriguez</nombre>
+    <trab:email>lucia@miempresa.com</trab:email>
+    <pers:email>lucia@gmail.com</pers:email>
+</empleado>
