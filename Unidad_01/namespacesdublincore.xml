@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo xmlns:dc="http://purl.org/dc/elements/1.1/">
+  
+  <libro>
+    <dc:title>Jeronimo Stilton y el Cigala</dc:title>
+    <dc:creator>Jeronimo Stilton</dc:creator>
+    <dc:publisher>Editorial Planeta</dc:publisher>
+    <dc:subject>Flamenco</dc:subject>
+    <fecha>15-11-2006</fecha>
+  </libro>
+
+  <libro>
+    <dc:title>El Libro Troll</dc:title>
+    <dc:creator>ElRubiusOMG</dc:creator>
+    <dc:publisher>Martínez Roca</dc:publisher>
+    <dc:subject>Filosofía</dc:subject>
+    <fecha>24-09-24</fecha>
+  </libro>
+
+</catalogo>
