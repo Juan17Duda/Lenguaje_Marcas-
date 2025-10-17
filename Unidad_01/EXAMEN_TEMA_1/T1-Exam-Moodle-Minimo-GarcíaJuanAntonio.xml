@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <question type="multichoice">
+        <name>
+            <text>Pregunta 1</text>
+        </name>
+        <questiontext format="html">
+            <text>¿Cuantos mundiales tiene España?</text>
+        </questiontext>
+        <defaultgrade>10</defaultgrade>
+        <single>true</single>
+        <shuffleanswers>1</shuffleanswers>
+        <answernumbering>abc</answernumbering>
+        <answer fraction="100">
+            <text>1</text>
+        </answer>
+        <answer fraction="0">
+            <text>6</text>
+        </answer>
+        <answer fraction="0">
+            <text>2</text>
+        </answer>
+    </question>
+    <question type="truefalse">
+        <name>
+                <text>Pregunta 2</text>
+        </name>
+        <questiontext format="html">
+            <text>Juan Antonio va a aprobar este examen</text>
+        </questiontext>
+        <defaultgrade>10</defaultgrade>
+        <answer fraction="0">
+            <text>Falso</text>
+        </answer>
+        <answer fraction="100">
+            <text>Verdadero</text>
+        </answer>
+    </question>
+</quiz>

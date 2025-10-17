@@ -1,0 +1,14 @@
+<!DOCTYPE inventario SYSTEM "T1-Exam-DTD-Garc%C3%ADaJuanAntonio.dtd">
+<inventario>
+    <item sku="01" moneda="EUR">
+        <nombre>Pala</nombre>
+        <precio>20</precio>
+        <stock>34</stock>
+    </item>
+    <item sku="02" moneda="EUR">
+        <nombre>Pico</nombre>
+        <precio>15</precio>
+        <stock>13</stock> 
+    </item>
+
+</inventario>
